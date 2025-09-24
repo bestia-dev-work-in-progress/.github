@@ -7,7 +7,7 @@
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
- ![logo](https://github.com/bestia-dev-work-in-progress/.github/blob/main/organization/organization_icon_work.png?raw=true)
+ ![logo](https://github.com/bestia-dev-work-in-progress/.github/blob/main/organization/organization_icon_work.png?raw=true)  
  bestia-dev-work-in-progress is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/bestia-dev-work-in-progress/repositories?q=sort%3Aname-asc) together
 
  [![Lines in md](https://img.shields.io/badge/Lines_in_markdown-83-green.svg)](https://github.com/bestia-dev-work-in-progress)
@@ -16,7 +16,6 @@
 This organization is for my repositories work-in-progress.
 
 Some of these repositories will eventually be completed.
-
 
 ## Open-source and free as a beer
 
