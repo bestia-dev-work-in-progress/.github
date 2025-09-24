@@ -1,6 +1,6 @@
 # bestia-dev-work-in-progress
 
-***Automation tasks coded in Rust language for the workflow of Rust projects***
+***bestia-dev just my repositories work-in-progress***
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-orange)

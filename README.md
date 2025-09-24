@@ -1,6 +1,6 @@
 # bestia-dev-work-in-progress
 
-***bestia-dev repositories work-in-progress***
+***bestia-dev just my repositories work-in-progress***
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-orange)
