@@ -1,6 +1,6 @@
 # bestia-dev-work-in-progress
 
-***bestia-dev repositories work-in-progress***
+***Automation tasks coded in Rust language for the workflow of Rust projects***
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-orange)
@@ -16,6 +16,7 @@
 This organization is for my repositories work-in-progress.
 
 Some of these repositories will eventually be completed.
+
 
 ## Open-source and free as a beer
 
