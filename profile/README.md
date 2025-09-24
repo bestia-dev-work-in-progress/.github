@@ -11,7 +11,7 @@
  bestia-dev-work-in-progress is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/bestia-dev-work-in-progress/repositories?q=sort%3Aname-asc) together
 
  [![Lines in md](https://img.shields.io/badge/Lines_in_markdown-83-green.svg)](https://github.com/bestia-dev-work-in-progress)
- ![bestia-dev-work-in-progress](https://bestia.dev/webpage_hit_counter/get_svg_image/1940127600.svg)
+ ![bestia-dev-work-in-progress](https://bestia.dev/webpage_hit_counter/get_svg_image/1189707947.svg)
 
 This organization is for my repositories work-in-progress.
 
